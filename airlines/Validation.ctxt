@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Validation
+comment1.params=loginCheck
+comment1.target=void\ setLoginCheck(boolean)
+comment2.params=flightCheck
+comment2.target=void\ setFlightCheck(boolean)
+comment3.params=
+comment3.target=boolean\ getLoginCheck()
+comment4.params=
+comment4.target=boolean\ getFlightCheck()
+numComments=5
